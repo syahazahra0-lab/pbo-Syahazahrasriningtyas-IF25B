@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 
 class Produk {
 
@@ -29,7 +29,7 @@ class Produk {
 }
 
 //object
-$produk = new produk('P0001','Laptop',10000000,5);
+$produk = new produk('P0001','Laptop',10000000, 5);
 
 //hasil
 echo "Produk: ". $produk->nama;
